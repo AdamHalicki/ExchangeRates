@@ -1,0 +1,11 @@
+C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\bin\Debug\net8.0\ExchangeRates.Domain.deps.json
+C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\bin\Debug\net8.0\ExchangeRates.Domain.dll
+C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\bin\Debug\net8.0\ExchangeRates.Domain.pdb
+C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\obj\Debug\net8.0\ExchangeRates.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\obj\Debug\net8.0\ExchangeRates.Domain.AssemblyInfoInputs.cache
+C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\obj\Debug\net8.0\ExchangeRates.Domain.AssemblyInfo.cs
+C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\obj\Debug\net8.0\ExchangeRates.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\obj\Debug\net8.0\ExchangeRates.Domain.dll
+C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\obj\Debug\net8.0\refint\ExchangeRates.Domain.dll
+C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\obj\Debug\net8.0\ExchangeRates.Domain.pdb
+C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\obj\Debug\net8.0\ref\ExchangeRates.Domain.dll
