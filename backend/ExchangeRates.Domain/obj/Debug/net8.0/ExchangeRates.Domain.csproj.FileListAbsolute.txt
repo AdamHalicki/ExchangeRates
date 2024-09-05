@@ -9,3 +9,4 @@ C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\obj\D
 C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\obj\Debug\net8.0\refint\ExchangeRates.Domain.dll
 C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\obj\Debug\net8.0\ExchangeRates.Domain.pdb
 C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\obj\Debug\net8.0\ref\ExchangeRates.Domain.dll
+C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Domain\obj\Debug\net8.0\ExchangeRates.Domain.sourcelink.json

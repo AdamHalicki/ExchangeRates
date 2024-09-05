@@ -13,3 +13,4 @@ C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Application\
 C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Application\obj\Debug\net8.0\refint\ExchangeRates.Application.dll
 C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Application\obj\Debug\net8.0\ExchangeRates.Application.pdb
 C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Application\obj\Debug\net8.0\ref\ExchangeRates.Application.dll
+C:\Users\adamh\Desktop\projects\ExchangeRates\backend\ExchangeRates.Application\obj\Debug\net8.0\ExchangeRates.Application.sourcelink.json

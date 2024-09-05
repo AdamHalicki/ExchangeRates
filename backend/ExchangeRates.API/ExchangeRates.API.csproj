@@ -8,8 +8,16 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ExchangeRates.Application\ExchangeRates.Application.csproj" />
+    <ProjectReference Include="..\ExchangeRates.Infrastructure\ExchangeRates.Infrastructure.csproj" />
   </ItemGroup>
-
+	
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+	</ItemGroup>
+	
   <ItemGroup>
     <Folder Include="Controllers\" />
   </ItemGroup>
